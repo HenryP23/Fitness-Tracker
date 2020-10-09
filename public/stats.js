@@ -29,7 +29,7 @@ API.getWorkoutsInRange()
     "#f95d6a",
     "#ff7c43",
     "ffa600"
-  ]
+  ];
 
   return arr;
   }
