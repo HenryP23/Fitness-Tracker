@@ -23,4 +23,4 @@ Henry
 [Github Profile](https://github.com/HenryP23)  
 You can contact me through my email henryhparrish@gmail.com
 ## Visual
-
+![ScreenShot](FitnessTrackerPic.PNG)
